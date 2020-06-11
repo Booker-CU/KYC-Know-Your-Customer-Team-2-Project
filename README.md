@@ -30,5 +30,5 @@ There is also a new option called Nightfall that would allow for hidden transact
 
 Note:
 Our code borrows from the https://github.com/servntire/KYC repository. 
-We made changes to the original code restructuring the core struct, and adding two additional structs.
-We added separte structs for KYC Admin and a Bank. We also added additional functions and modifiers to the code.
+We made changes to the original code restructuring the core struct, and adding two additional structs and mappings.
+We added separate structs for KYC Admin and a Bank. We also added additional functions and modifiers to the code.
